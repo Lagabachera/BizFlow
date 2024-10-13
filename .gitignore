@@ -1,0 +1,4 @@
+# Archivos y carpetas a ignorar por Git
+venv/
+*.pyc
+__pycache__/
